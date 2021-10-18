@@ -1,0 +1,38 @@
+body {
+    text-align:center;
+}
+
+#schoolimages {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+    text-align: center;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+#aboutus {
+    text-align: center;
+    font-style: oblique;
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 50px;
+    text-align: center;
+    color: red;
+}
+
+#students {
+    text-align: center;
+    font-style: oblique;
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 50px;
+    text-align: center;
+    color: orangered;
+}
